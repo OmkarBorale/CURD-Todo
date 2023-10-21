@@ -1,0 +1,9 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.todoSize{
+    font-size: 25px;
+    font-weight: 700;
+}
